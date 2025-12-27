@@ -35,7 +35,7 @@ git clone (https://github.com/EHyashu/chat-system-for-uni.git)
 cd chat-system-for-uni
 
 # Create virtual environment
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
