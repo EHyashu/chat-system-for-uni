@@ -31,7 +31,7 @@ User Query → Question Classifier → [University / General]
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone (https://github.com/EHyashu/chat-system-for-uni.git)
 cd chat-system-for-uni
 
 # Create virtual environment
